@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mymoneybook-2-website/static/css/main.1b46da60.chunk.css",
+    "main.js": "/mymoneybook-2-website/static/js/main.f6535a47.chunk.js",
+    "main.js.map": "/mymoneybook-2-website/static/js/main.f6535a47.chunk.js.map",
+    "runtime-main.js": "/mymoneybook-2-website/static/js/runtime-main.f929d0ec.js",
+    "runtime-main.js.map": "/mymoneybook-2-website/static/js/runtime-main.f929d0ec.js.map",
+    "static/js/2.cb92aa54.chunk.js": "/mymoneybook-2-website/static/js/2.cb92aa54.chunk.js",
+    "static/js/2.cb92aa54.chunk.js.map": "/mymoneybook-2-website/static/js/2.cb92aa54.chunk.js.map",
+    "index.html": "/mymoneybook-2-website/index.html",
+    "precache-manifest.051660cd9668c8fabaa5322dc765d838.js": "/mymoneybook-2-website/precache-manifest.051660cd9668c8fabaa5322dc765d838.js",
+    "service-worker.js": "/mymoneybook-2-website/service-worker.js",
+    "static/css/main.1b46da60.chunk.css.map": "/mymoneybook-2-website/static/css/main.1b46da60.chunk.css.map",
+    "static/js/2.cb92aa54.chunk.js.LICENSE.txt": "/mymoneybook-2-website/static/js/2.cb92aa54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f929d0ec.js",
+    "static/js/2.cb92aa54.chunk.js",
+    "static/css/main.1b46da60.chunk.css",
+    "static/js/main.f6535a47.chunk.js"
+  ]
+}
